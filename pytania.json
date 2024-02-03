@@ -1,0 +1,1714 @@
+[
+  {
+    "question": "Proszę wskazać zdanie fałszywe dotyczące zespołu policystycznych jajników (PCOS)",
+    "options": [
+      "Obejmuje liczne zaburzenia endokrynno-metaboliczne, wśród których centralną pozycję zajmuje dysfunkcja jajnika",
+      "Przyczyną zaburzeń płodności są zaburzenia owulacji",
+      "Powoduje rozwój otyłości",
+      "Dysfunkcja hormonalna w tkance tłuszczowej wpływa na zaburzenia uwalniania hormonów podwzgórzowych",
+      "Hiperinsulinemia kompensująca insulinoooporność hamuje syntezę SHBG w wątrobie"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Mechanizmy, przez które hiperinsulinemia powoduje hiperandrogenizm nie obejmują: 1. zmniejszenia częstości pulsów uwalniania LH 2. zwiększenia uwalniania androgenów nadnerczowych 3. zwiększenia uwalniania androgenów jajnikowych 4. hamowania syntezy SHBG w wątrobie 5. aktywacji syntezy białek wiążących insulinopodobne czynniki wzrostu w wątrobie",
+    "options": ["1, 5", "1, 2, 3", "1, 2, 4", "1, 3, 5", "1, 2, 3, 4, 5"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Które z niżej wymienionych zaburzeń mogą rozwinąć się w wyniku zakażenia SARS-CoV-2: 1. centralna moczówka prosta 2. wtórna niedoczynność kory nadnerczy 3. rozwój mikrogruczolaka przysadki 4. pierwotna nadczynność przytarczyc 5. ciche, bezbolesne zapalenia tarczycy",
+    "options": ["1, 2, 5", "1, 2, 4, 5", "2, 3, 4", "3, 4, 5", "1, 2, 3, 4, 5"],
+    "correctIndex": 0
+  },
+  {
+    "question": "W przełomie hiperkalcemicznym nie występuje:",
+    "options": [
+      "Oliguria (mp pisze ze wielomocz)",
+      "Polidypsja",
+      "Nudności i wymioty (a nie to??)",
+      "Senność i śpiączka",
+      "Obniżenie ciśnienia tętniczego"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hiperkaliemia na pewno nie wystąpi w:",
+    "options": [
+      "Pierwotnym hiperaldosteronizmie",
+      "Niedoczynności kory nadnerczy",
+      "Hipoaldosteronizmie hiporeninowym",
+      "Zespole Cushinga",
+      "Niewydolności nerek"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Zwiększone zapotrzebowanie na białko nie wystąpi u chorego:",
+    "options": [
+      "Po zabiegu operacyjnym",
+      "Po złamaniu",
+      "Z przewlekłym zakażeniem",
+      "Z niedoczynnością tarczycy",
+      "Rozległym oparzeniem"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Hipogonadyzm hipogonadotropowy występuje w:",
+    "options": [
+      "Zespole Klinefeltera",
+      "Zespole Noonan",
+      "Zespole Turnera",
+      "Dysgenezji gonad XX i XY",
+      "Zespole Kallmana"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "Do gabinetu zgłasza się 47-letnia kobieta, u której w czasie ostatnich 12 tygodni doszło do przyrostu masy ciała o 10 kg. Kobieta czuję się cały czas głodna. Zdarzają się chwile, że nie pamięta co działo się kilka minut wcześniej. Najbardziej prawdopodobnym rozpoznaniem jest:",
+    "options": [
+      "Insulinoma",
+      "Hipoglikemia reaktywna",
+      "Cukrzyca typu drugiego",
+      "Cukrzyca typu pierwszego",
+      "Niedoczynność kory nadnerczy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "32-letnia kobieta zgłasza się do swojej lekarki rodzinnej z gorączką i objawami drżenia oraz bliżej nieokreślonym uczuciem dyskomfortu, lokalizującym się w przedniej części szyi. W badaniach: fT4 - 14 pmol/L, TSH - 0,12 mIU/L. W kolejnych pomiarach po czterech tygodniach: TSH 89,8 mIU/L, fT4 <5 pmol/L. W badaniu scyntygraficznym obraz tzw. “zimnej tarczycy”. Najbardziej prawdopodobny rozpoznanie to",
+    "options": [
+      "Choroba Gravesa-Basedowa",
+      "Pierwotna niedoczynność tarczycy",
+      "Podostre zapalenie tarczycy",
+      "Gruczolak toksyczny",
+      "Wole wieloguzkowe toksyczne"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "34-letni mężczyzna skarży się na osłabienie, brak łaknienia, chudnięcie. Neguje polidypsję i poliurię. Wcześniej u chorego rozpoznano chorobę Hashimoto, aktualnie stan eutyreozy w wyniku adekwatnego leczenia l-tyroksyną. Uwagę zwraca ciemne zabarwienie skóry, niskie ciśnienie tętnicze z hipotonią ortostatyczną. W badaniach laboratoryjnych hiponatremia. Najbardziej prawdopodobne rozpoznanie to:",
+    "options": [
+      "Guz rdzenia nadnerczy",
+      "Hiponatremia z rozcieńczenia",
+      "Przewlekła pierwotna niedoczynność kory nadnerczy",
+      "Pozorna hiponatremia u pacjenta z hiperglikemią",
+      "Prawidłowe odpowiedzi to A i C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ektopowa, nadmierna synteza wazopresyny (ADH) przez guz nowotworowy spowoduje:",
+    "options": [
+      "Policytemię",
+      "Hiperkaliemię",
+      "Hipernatremię",
+      "Hiponatremię",
+      "Hiperkalcemię"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Przyczyną hiperprolaktynemii nie jest:",
+    "options": [
+      "Torbiel kieszonki Rathkego",
+      "Akromegalia",
+      "Pseudohypoparatyroidyzm",
+      "Marskość wątroby",
+      "Napady padaczkowe"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Poliuria występuje w przebiegu: 1. hiperaldosteronizmu pierwotnego 2. hiperaldosteronizmu wtórnego 3. cukrzycy 4. zespół Cushinga 5. nadczynności przytarczyc 6. niedoczynności przytarczyc 7. moczówki prostej 8. nadczynności tarczycy 9. niedoczynności tarczycy",
+    "options": [
+      "1, 2, 4, 5, 7",
+      "2, 3, 4, 6, 8",
+      "2, 3, 5, 7, 9",
+      "1, 3, 6, 7, 8",
+      "1, 3, 4, 5, 7"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "Subkliniczną (utajoną) nadczynność tarczycy charakteryzuje:",
+    "options": [
+      "Zwiększenie stężenia TSH, zwiększenie stężenia fT3 i fT4",
+      "Zwiększenie stężenia TSH, stężenia fT3 i fT4 nie przekraczają górnej granicy normy",
+      "Zmniejszenie stężenia TSH, zwiększenie stężenia fT3 i fT4",
+      "Zmniejszenie stężenia TSH, stężenia fT3 i fT4 nie przekraczają górnej granicy normy",
+      "Prawidłowe stężenie TSH, zwiększone stężenia fT3 i fT4"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Niedoczynność tarczycy może wywołać zmiany w układzie sercowo-naczyniowym obejmujące:",
+    "options": [
+      "Wzrost ciśnienia rozkurczowego",
+      "Wysoki rzut serca",
+      "Niskie stężenie cholesterolu",
+      "Zmniejszony obwodowy opór naczyniowy",
+      "Nadciśnienie tętnicze skurczowe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Najczęściej spotykana chorobą tarczycy w Polsce jest:",
+    "options": [
+      "Wole guzkowe nadczynne",
+      "Choroba Gravesa-Basedowa",
+      "Wole obojętne",
+      "Zapalenie tarczycy",
+      "Niedoczynność tarczycy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "W badaniach laboratoryjnych w przypadku wtórnej nadczynności przytarczyc zazwyczaj stwierdza się:",
+    "options": [
+      "Hiperkalcemię",
+      "Hipofosfatemię",
+      "Zwiększone stężenie parathormonu w surowicy",
+      "Zwiększone stężenie 25-hydroksywitaminy D w surowicy",
+      "Wszystkie powyższe"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "88. Najczęstszą przyczyną niedoczynności przytarczyc jest:",
+    "options": [
+      "a. rak przytarczyc",
+      "b. gruczolak przytarczyc",
+      "c. zatrucie ołowiem",
+      "d. usunięcie przytarczyc podczas strumektomii",
+      "e. łagodny rozrost przytarczyc"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "89. U 20-letniego pacjenta występuje rozdrażnienie, zlewne poty, napady silnego głodu. Objawy ustępują po zjedzeniu posiłku. U pacjenta najprawdopodobniej występuje guz zbudowany z:",
+    "options": [
+      "a. komórek Alfa wysp trzustkowych",
+      "b. komórek Beta wysp trzustkowych",
+      "c. komórek chromochłonnych",
+      "d. komórek C tarczycy",
+      "e. komórek warstwy pasmowatej nadnerczy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "90. Do objawów ostrej niedoczynności kory nadnerczy u dzieci nie należy:",
+    "options": [
+      "a. ból brzucha",
+      "b. wymioty",
+      "c. odwodnienie",
+      "d. hipowolemia",
+      "e. hiperglikemia"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "97. Bezpośrednią przyczyną osteodystrofii nerkowej z przyspieszonym obrotem kostnym w przebiegu przewlekłej choroby nerek jest:",
+    "options": [
+      "a. niedobór estrogenów",
+      "b. wtórna nadczynność przytarczyc",
+      "c. odkładanie się w kościach osób dializowanych beta2-mikroglobuliny",
+      "d. niedobór witaminy D",
+      "e. przedawkowanie preparatów wapnia i witaminy D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "2. W rozwoju hiperglikemii w przebiegu tyreotoksykozy nie uczestniczy:",
+    "options": [
+      "A. nasilenie glukoneogenezy",
+      "B. zwiększenie wchłaniania glukozy z przewodu pokarmowego",
+      "C. upośledzenie lipolizy",
+      "D. nasilenie rozpadu białek",
+      "E. nasilenie ketogenezy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "15. Proszę wskazać zdanie fałszywe:",
+    "options": [
+      "A. w zespole policystycznych jajników dochodzi do zaburzeń endokrynnych, których powikłaniem jest otyłość",
+      "B. fenotyp A zespołu policystycznych jajników diagnozuje się u kobiet spełniających wszystkie trzy kryteria Rotterdamskie - prawda",
+      "C. do objawów klinicznych zespołu policystycznych jajników należą hirsutyzm, trądzik i łysienie androgenowe - prawda",
+      "D. fenotyp B zespołu policystycznych jajników to występowanie hiperandrogenizmu i zaburzeń owulacji - prawda",
+      "E. fenotyp C zespołu policystycznych jajników to występowanie hiperandrogenizmu i obrazu policystycznego jajnika - prawda"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "16. Do objawów klinicznych zespołu policystycznych jajników nie należy:",
+    "options": [
+      "A. hirsutyzm",
+      "B. oligomenorrhea",
+      "C. wtórny brak miesiączki",
+      "D. otyłość",
+      "E. trądzik"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "19. Czynnikiem hamującym uwalnianie dopaminy w strukturach układu nagrody jest:",
+    "options": [
+      "A. adrenalina",
+      "B. noradrenalina",
+      "C. leptyna",
+      "D. glukagonopodobny peptyd typu 1",
+      "E. kortyzol"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "41. Nagłe pojawienie się poliurii przekraczającej 12 I moczu na dobę o ciężarze właściwym 1001 wskazuje na:",
+    "options": [
+      "A. niewyrównaną cukrzycę",
+      "B. poliurię w przebiegu niewydolności nerek",
+      "C. moczówkę prosta",
+      "D. wrodzoną moczówkę nerkową",
+      "E. żadne z wyżej wymienionych"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "42. U 28-letniej kobiety występują brak miesiączki i mlekotok. Zmiana w obrazie z rezonansu magnetycznego mózgu występi w:",
+    "options": [
+      "A. przednim płacie przysadki",
+      "B. podwzgórzu",
+      "C. wzgórzu",
+      "D. części pośredniej przysadki",
+      "E. tylnym płacie przysadki"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "43. Niedoczynność przedniego płata przysadki u dorosłych mężczyzn nie powoduje:",
+    "options": [
+      "A. niedoczynności tarczycy",
+      "B. niepłodności",
+      "C. zmniejszenia wydzielania TSH",
+      "D. zmniejszenia wydzielania kortyzolu",
+      "E. zmniejszenia wydzielania aldosteronu (chyba z bazy)"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "44. 25-letnia kobieta zgłosiła się do lekarza z powodu kołatania serca występującego od 6 tygodni. Stężenie TSH jest poniżej normy a stężenie FT4 powyżej normy. Najbardziej, prawdopodobne rozpoznanie to:",
+    "options": [
+      "A. eutyreoza",
+      "B. pierwotna nadczynność tarczycy (to z leku pytanie)",
+      "C. ",
+      "D. pierwotna niedoczynność tarczycy",
+      "E. wtórna niedoczynność tarczycy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "45. Na nadczynność tarczycy w przebiegu choroby Gravesa-Basedowa wskazuje:",
+    "options": [
+      "A. retrakcja powiek (???)",
+      "B. ginekomastia",
+      "C. brak orbitopatii",
+      "D. płeć męska",
+      "E. wyczuwalne nieguzkowe wole ze słyszalnym szmerem naczyniowym"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "46. W patogenezie niedokrwistości u kobiety w wieku rozrodczym z niedoczynnością tarczycy należy uwzględnić:",
+    "options": [
+      "A. upośledzona synteza hemoglobiny spowodowana niedoborem tyroksyny",
+      "B. niedobór żelaza w wyniku obfitych krwawień miesięcznych i zaburzeń wchłaniania żelaza",
+      "C. zaburzenia wchłaniania kwasu foliowego w jelitach",
+      "D. niedokrwistość megaloblastyczna z niedoboru witaminy B12 jako częsty objaw chorób o podłożu autoimmunologicznym, w tym autoimmunologicznego zapalenia tarczycy typu Hashimoto",
+      "E. wszystkie odpowiedzi są prawidłowe"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "47. W niedoczynności przytarczyc, w badaniach laboratoryjnych stwierdza się: 1) hipokalcemię, 2) hiperkalcemię, 3) hiperfostatemie, 4) hipofosfatemię, 5) hipofosfaturię, 6) hiperfosfaturię. (WYCOFANE) Prawidłowa odpowiedź to: (WYCOFANE)",
+    "options": [
+      "A. 1, 4, 6",
+      "B. 2, 4, 6",
+      "C. 1, 3, 5",
+      "D. 2, 3. 5",
+      "E. 1, 4, 5"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "48. 34-letni mężczyzna skarży się na osłabienie, brak łaknienia, chudnięcie. Neguje wzmożone pragnienie i poliurię. Wcześniej rozpoznano chorobę Hashimoto. Zwraca uwagę ciemne zabarwienie skóry, niskie ciśnienie tętnicze z hipotonią ortostatyczną. W badaniach laboratoryjnych występuje hiponatremia. Najbardziej prawdopodobne rozpoznanie to:",
+    "options": [
+      "A. niewyrównana niedoczynność tarczycy",
+      "B. hiponatremia z rozcieńczenia",
+      "C. niedoczynność kory nadnerczy",
+      "D. pozorna hiponatremia u pacjenta z hiperglikemia",
+      "E. prawdziwe odpowiedzi to A i C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "49. U 25-letniej chorej z wtórnym brakiem miesiączki od 7 miesięcy, wywołano miesiączkę preparatem estrogenowo - progesteronowym i oznaczono w 5 dniu cyklu profil hormonalny. Chora wcześniej miesiączkowała regularnie. W czasie ostatnich 8 miesięcy doszło u niej do utraty 10 kg masy ciała, aktualnie BMI 21 kg/m². W badaniach laboratoryjnych: LH, FSH i estradiol poniżej dolnej granicy normy, prolaktyna i TSH w normie. Najbardziej prawdopodobnym rozpoznaniem jest:",
+    "options": [
+      "A. zespół przedwczesnego wygaśnięcia jajników",
+      "B. niewydolność podwzgórzowo-przysadkowa",
+      "C. zespół policystycznych jajników",
+      "D. mikrogruczolak przysadki",
+      "E. zespół Gilberta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "50. 30-letnia pacjentka zgłasza się do ginekologa z powodu wtórnego braku miesiączki. Ostatnie krwawienie wystąpiło 7 miesięcy temu. Zgłasza suchość skóry, uderzenia gorąca, uczucie kołatania serca. Beta-HCG ujemne. Chora nie posiada dzieci. Stężenie AMH niskie, FSH wysokie. W badaniu ginekologicznym rozwój 2 i 3 rzędowych cech płciowych prawidłowy, suchość pochwy. W badaniu USG nieliczne pęcherzyki jajnikowe. oraz zmniejszona objętość jajników. Prawdopodobnym rozpoznaniem jest:",
+    "options": [
+      "A. menopauza",
+      "B. guz przysadki wydzielający FSH",
+      "C. zespół przedwczesnego wygasania funkcji jajników",
+      "D. zespół policystycznych jajników",
+      "E. guz chromochłonny"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "51. Pacjentka zgłasza się do lekarza POZ z powodu bólu szyi promieniującego do uszu. W badaniu przedmiotowym gorączka, tachykardia, wzmożone potliwość, drobnofaliste drżenie rak. Wystąpienie objawów poprzedziło zakażenie górnych dróg oddechowych. W badaniu USG szyi uwagę zwraca hipoechogeniczność tarczycy z obszarami o niejednorodnej echogeniczności, nieznaczne powiększenie tarczycy oraz węzłów chłonnych szyjnych. W badaniach laboratoryjnych TSH 0.2mlU/I, nieznacznie podwyższone stężenie wapnia, CRP 20mg/I, leukocytoza 12 000. Najbardziej prawdopodobnym rozpoznaniem jest:",
+    "options": [
+      "A. ropień tarczycy",
+      "B. faza nadczynności tarczycy w przebiegu choroby Hashimoto",
+      "C. choroba Gravesa Basedowa",
+      "D. olbrzymiokomórkowe zapalenie tarczycy",
+      "E. rak rdzeniasty tarczycy"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "52. 21-letnia kobieta skarży się na nieregularne miesiączki występujące co 3-5 miesięcy, począwszy od pierwszej miesiączki w wieku 15 lat. Nieregularne miesiączki poprzedził przyrost masy ciala. Obecnie występują trądzik i ciemnienie skory pod pachami. W badaniu przedmiotowym: hirsutyzm na twarzy i klatce piersiowej, prawidłowa temperatura ciała, ciśnienie i tętno prawidłowe, otyłość 1 stopnia, pogrubiona skóra pod pachami z cechami rogowacenia ciemnego. Najbardziej prawdopodobną diagnozą jest:",
+    "options": [
+      "A. rak nadnerczy",
+      "B. zespół Cushinga",
+      "C. wrodzony przerost nadnerczy o późnym początku",
+      "D. rak jajnika",
+      "E. zespół policystycznych jajników"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "54. 56-letni mężczyzna został skierowany do poradni endokrynologicznej z powodu niskiego libido i zaburzeń erekcji. Od dzieciństwa ma zaburzenia węchu. W badaniach laboratoryjnych: testosteron całkowity 5,6 mol/I, SHBG 42,1 mol/1, FSH 2,1 1U/I, LH 1,76 1U/I. W wywiadzie brak chorób przewlekłych, pacjent nie ma potomstwa. Pole widzenia prawidłowe, masa ciała prawidłowa, jądra o objętości 5 ml, palpacyjnie miękkie, słabo rozwinięte owłosienie łonowe i pachowe. Najbardziej prawdopodobnym rozpoznaniem jest:",
+    "options": [
+      "A. zespół Kallmanna",
+      "B. zespół Klinefeltera",
+      "C. wcześniejszy uraz jader",
+      "D. wcześniejsze zapalenie jąder",
+      "E. zmniejszenie wydzielania testosteronu związane z wiekiem"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "55. 30-letnia kobieta o dziecięcej budowie twarzy i zimnej suchej skórze, nie miesiączkuje. Stwierdzenie niskich stężeń FSH, TSH i prolaktyny wskazuje na:",
+    "options": [
+      "A. nadczynność tarczycy",
+      "B. ciążę",
+      "C. niedoczynność przysadki mózgowej",
+      "D. zespół przedwczesnego wygasania czynności jajników",
+      "E. wszystkie prawdziwe"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "91. Hiperkaliemia, nie wystąpi w przebiegu:",
+    "options": [
+      "A. kwasicy metabolicznej",
+      "B. mocznicy",
+      "C. hipoaldosteronizmu hiporeninowego",
+      "D. zespołu Cushinga",
+      "E. hiperaldosteronizmu pierwotnego"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "93. 52-letnia chora zgłasza się do lekarza z powodu silnych i bolesnych skurczów dłoni występujących od dwóch tygodni. Miesiąc temu u chorej usunięto operacyjnie tarczycę z powodu wola zamostkowego. Najbardziej prawdopodobna przyczyna tych objawów jest:",
+    "options": [
+      "A. niedoczynność tarczycy",
+      "B. nadczynność przytarczyc",
+      "C. nadczynność tarczvcy",
+      "D. niedoczynność przytarczyc",
+      "E. hiperkalcemia"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "100. Proszę wskazać fałszywe stwierdzenie opisujące czynnościowy hiperandrogenizm jajnikowy (FOH) występujący u kobiet chorujących na otyłość:",
+    "options": [
+      "A. obserwuje się następujący patomechanizm: hiperinsulinemia i nasilona konwersja estrogenów w tkance tłuszczowej → wzrost wydzielania LH → nasilenie syntezy 1 uwalniania testosteronu przez komórki tekalne jajnika",
+      "B. obserwuje się bezpośrednie stymulowanie syntezy testosteronu w jajniku przez insulinę",
+      "C. obserwuje się hamujący wpływ nadmiaru insuliny na syntezę SHBG w wątrobie",
+      "D. obserwuje się następujący patomechanizm: hiperinsulinemia kompensująca insulinooporność → hiperglikemie czynnościowe → zmniejszenie wydzielania adrenokortykotropiny (ACTH) → wzrost wydzielania androgenów nadnerczowych",
+      "E. objawia się, zaburzeniami owulacji, miesiączkowania, hirsutyzm i ograniczenie płodności"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "15. Do zmian hormonalnych uwzględnionych w kryteriach rotterdamskich diagnozowania zespołu policystycznych jajników nie należy:",
+    "options": [
+      "a) zwiększone stężenie testosteronu całkowitego",
+      "b) zwiększone stężenie testosteronu wolnego",
+      "c) zwiększone stężenie androstendionu",
+      "d) zwiększone stężenie dehydroepiandrostendionu",
+      "e) zwiększona wartość indeksu LH/FSH"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "16. Hiperandrogenizm u kobiet nie występuje w przebiegu:",
+    "options": [
+      "a) guza wirylizującego jajnika",
+      "b) nieklasycznego wrodzonego przerostu kory nadnerczy",
+      "c) jadłowstrętu psychicznego",
+      "d) otyłości",
+      "e) zespołu Cushinga"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "24. Do zmian hormonalnych nie związanych typowo z procesem starzenia zaliczamy:",
+    "options": [
+      "a) zwiększenie syntezy hormonu anty-Mullerowskiego (AMH) u kobiet",
+      "b) zmniejszenie syntezy testosteronu u mężczyzn",
+      "c) zmniejszenie syntezy dehydroepiandrostendionu (DHEA)",
+      "d) zmniejszenie wydzielania hormonu wzrostu",
+      "e) zmniejszanie stężenia hormonów tarczycy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "42. Najczęściej występujący guz przysadki to:",
+    "options": [
+      "a) guz hormonalnie nieczynny",
+      "b) somatotropinoma",
+      "c) tyreotropinoma",
+      "d) prolaktinoma",
+      "e) adrenokortykotropinoma"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "43. Charakterystycznym objawem niedoczynności tarczycy, nie jest:",
+    "options": [
+      "a) stałe uczucie zimna",
+      "b) ogólne spowolnienie",
+      "c) uporczywe zaparcia",
+      "d) obrzęk śluzakowaty",
+      "e) hipocholesterolemia"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "44. U karmiącej kobiety ze zdiagnozowaną po porodzie nadczynnością tarczycy w diagnostyce różnicowej choroby Gravesa-Basedowa i poporodowego zapalenia tarczycy należy wykonać oznaczenie:",
+    "options": [
+      "a) stężenia tyreotropiny",
+      "b) stężenia tyreotropiny i wolnej tyroksyny",
+      "c) stężenia wolnej trójjodotyroniny",
+      "d) jodochwytności tarczycy",
+      "e) miana przeciwciał stymulujących tarczycę"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "45. Objawy przełomu tyreotoksycznego obejmują: 1. biegunkę, 2. wzmożone napięcie mięśniowe, 3. gorączkę, 4. tachykardię, 5. odwodnienie, 6. silne pobudzenie",
+    "options": [
+      "a. 1, 2, 3, 5",
+      "b. 2, 4, 6",
+      "c. 1, 2, 3",
+      "d. 1, 3, 4",
+      "e. 1, 2, 3, 4, 5, 6"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "46. O pierwotnej przewlekłej niedoczynności kory nadnerczy (choroba Addisona) świadczy:",
+    "options": [
+      "a. zwiększenie stężenia ACTH, hiperkaliemia, hiponatremia",
+      "b. zwiększone stężenie ACTH, hiperkaliemia, hiponatremia",
+      "c. zwiększone stężenie ACTH, hipokalemia, hiponatremia",
+      "d. zmniejszenia stężenia ACTH, hiperkaliemia, hipernatremia",
+      "e. zwiększone stężenie ACTH, hipokaliemia, hipernatremia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "47. W przebiegu zespołu Cushinga, hipokalemia rozwija się w mechanizmie:",
+    "options": [
+      "a. aktywacji receptora mineralokortykosteroidowego",
+      "b. proliferacji adipocytów",
+      "c. zwiększenia syntezy glikogenu",
+      "d. zwiększenia rozpadu białek",
+      "e. insulinooporności"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "48. U dziewcząt najczęstszą przyczyną niskorosłości i braku dojrzewania płciowego jest:",
+    "options": [
+      "a. zespół Turnera",
+      "b. zespół McCune’a-Albrighta",
+      "c. zespół Noonan",
+      "d. zespół Kallmana",
+      "e. wielohormonalna niedoczynność przysadki"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "49. Przyczyną pierwotnego braku miesiączki może być: 1. zespół Rokitansky’ego 2. zespół Turnera 3. zespół Cushinga w wieku przedpokwitaniowym 4. czaszkogardlak 5. niedobór 17 alfa-hydroksylazy",
+    "options": ["a) 1", "b) 1, 2", "c) 1, 3", "d) 2, 3, 4", "e) 1, 2, 3, 4, 5"],
+    "correctIndex": 4
+  },
+  {
+    "question": "50. Za przedwczesne wygasanie jajników uważa się ustanie funkcji jajnika przed:",
+    "options": [
+      "a. 30 rokiem życia",
+      "b. 35 rokiem życia",
+      "c. 40 rokiem życia",
+      "d. 45 rokiem życia",
+      "e. 50 rokiem życia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "52. 33-letnia kobieta zgłosiła się do lekarza z powodu osłabienia, okresowo występujących nudności, wymiotów i braku miesiączki. W czasie ostatnich 6-miesięcy ubytek masy ciała 7 kg. Zwraca uwagę utrata owłosienia pachowego i łonowego I pojawienie się ciemno brązowych przebarwień na skórze i błonach śluzowych. W badaniach laboratoryjnych stwierdzono obniżone stężenie sodu i zwiększone stężenie potasu w surowicy. U pacjentki można podejrzewać:",
+    "options": [
+      "A. ciążę",
+      "B. hipogonadyzm hipogonadotropowy",
+      "C. jadłowstręt psychiczny",
+      "D. pierwotną przewlekłą niedoczynność kory nadnerczy",
+      "E. insulinooporność"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "63. Nadciśnienie tętnicze nie rozwinie się w przebiegu:",
+    "options": [
+      "a) otyłości",
+      "b) zespołu nieadekwatnego wydzielania wazopresyny",
+      "c) zespołu Cushinga",
+      "d) zespołu Conna",
+      "e) guza chromochłonnego"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "90. 77-letni pacjent leczony od kilku lat z powodu kamicy nerkowej skarży się na uogólnione bóle kostne. W badaniach dodatkowych stężenie wapnia 12,3 mg/dl (N: 8,5-10,5 mg/di). dobowe wydalanie wapnia 480 mg/24h (N: 150-300 mg/24h), PTH 227 pg/ml (N: 15-65 pg/ml). Najbardziej prawdopodobnym rozpoznaniem jest:",
+    "options": [
+      "a) hiperkalcemia nowotworowa",
+      "b) pierwotna nadczynność przytarczyc",
+      "c) wtórna nadczynność przytarczyc",
+      "d) rzekoma niedoczynność przytarczyc",
+      "e) przedawkowanie witaminy D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "100. Pierwotna nadczynność przytarczyc może powodować:",
+    "options": [
+      "a) kamicę nerkową",
+      "b) bóle brzucha",
+      "c) powstawanie torbieli kostnych i łamliwość kości",
+      "d) zaburzenia psychiczne",
+      "e) wszystkie wymienione"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "40. Dla zespołu Klinefeltera charakterystyczne nie jest:",
+    "options": [
+      "a) małe prącie",
+      "b) niskorosłość",
+      "c) hipogonadyzm hipergonadotropowy",
+      "d) ginekomastia",
+      "e) szkliwienie kanalików nasiennych"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "52. Stężenie hormonu antymullerowskiego jest wykorzystywane w diagnostyce: (czy to pytanie nie jest do zgłoszenia? jak obie odp są dobre?)",
+    "options": [
+      "A. PCOS- TO! (U kobiet z zespołem PCOS (Polycystic Ovary Syndrome) stężenie AMH jest 2-3-krotnie wyższe niż u kobiet bez schorzenia.) https://www.labtestsonline.pl/test/hormon-anty-mullerowski",
+      "B. Przedwczesnego wygasania czynności jajników- tutaj AMH spada IMO TO, na mp w diagnostyce przedwczesnego wygasania AMH jest wymienione, w PCOSie nie ma o nim nic wspomnianego",
+      "C. Wrodzonego przerostu nadnerczy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "53. Przyczyną pierwotnego braku miesiączki nie jest:",
+    "options": [
+      "A. Zespół Kalmana",
+      "B. Zespół Turnera",
+      "C. Zespół Sheehana",
+      "D. Wrodzony brak macicy",
+      "E. Guz okolicy podwzgórza"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Proszę wskazać zdanie fałszywe dotyczące zespołu policystycznych jajników (PCOS)",
+    "options": [
+      "a) Obejmuje liczne zaburzenia endokrynno-metaboliczne wśród których centralną pozycję zajmuje dysfunkcja jajnika",
+      "b) Przyczyną zaburzeń płodności są zaburzenia owulacji",
+      "c) Powoduje rozwój otyłości",
+      "d) Dysfunkcja hormonalna tkanki tłuszczowej wpływa na zaburzenia uwalniania hormonów podwzgórzowych",
+      "e) Hiperinsulinemia kompensująca insulinoooporność hamuje syntezę SHBG w wątrobie"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "6. Mechanizmy przez które hiperinsulinemia powoduje hiperandrogenizm obejmują 1. zwiększenie intensywności pulsów uwalniania LH 2. zwiększenie uwalniania androgenów nadnerczowych 3. zwiększenie uwalniania androgenów jajnikowych 4. hamowanie syntezy SHBG w wątrobie 5. hamowanie syntezy białek wiążących insulinopodobne czynniki wzrostu w wątrobie",
+    "options": ["a) 1,2,3,4,5, - wszystko"],
+    "correctIndex": 0
+  },
+  {
+    "question": "14. Prosze wskazać prawidłowe stwierdzenie opisujące wpływ zakażenia SARS-Cov-2 na czynność tarczycy: 1.u osób predysponowanych (allele HLA klasy…). 2 może rozwinąć się ch. Gravesa-Basedowa 3.u niektórych chorych może rozwinąć się wtórna nadczynność tarczycy 4.w wyniku uszkodzenia kom. pęcherzykowych tarczycy antygeny przedostają się do krążenia mogą indukować procesy autoimmunologiczne i prowadzić do rozwoju autoimmunizacyjnej choroby tarczycy 5.nasilenie czynności kom. regulatorowych sprzyja wystąpieniu ch. Hashimoto",
+    "options": [
+      "a) 1,2,3,4,5",
+      "b) 1,2,4,5",
+      "c) 1,2,4? bo w 5 powinien być spadek aktywnosci limf supresorowych zeby doszło do Hashi?",
+      "d) 3,4,5",
+      "e) 2,4,5"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "18. Ryzyko rozwoju cukrzycy, nie zwiększa",
+    "options": [
+      "a) Pierwotny hiperaldosteronizm",
+      "b) Hiperkortyzolemia",
+      "c) Nadczynność tarczycy",
+      "d) Glucagonoma",
+      "e) Niedobór hormonu wzrostu"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "19. W rozwoju nadciśnienia tętniczego w zespole Cushinga nie uczestniczy",
+    "options": [
+      "a) Nasilenie oporności na działanie insuliny",
+      "b) Nasilenie syntezy angiotensynogenu",
+      "c) Zwiększenie rzutu serca",
+      "d) Zmniejszenie produkcji prostaglandyn",
+      "e) Zmniejszenie wrażliwości naczyń na działanie amin katecholowych"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "Zah str 9 wady tabela 1.8 wady serca wymienione przy wszystkich prócz zespołu Klinefeltera",
+    "options": [
+      "a) Zesp. Edwardsa",
+      "b) W zespole Klinefeltera",
+      "c) Zesp. Turnera",
+      "d) Zesp. Downa",
+      "e) Zesp. Pataua"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "44. Przyczyną zwiększenia stężenia prolaktyny we krwi, nie jest:",
+    "options": [
+      "a) Stosowanie neuroleptyków (neuroleptyki hamują receptor dopaminergiczny więc one zwiększają)",
+      "b) Ucisk na lejek przysadki",
+      "c) Zespół Sheehana ? +1( to przy niedoborze PRL występuje więc ok)",
+      "d) Ostra niewydolność nerek",
+      "e) Gruczolak przysadki"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "45. Typowym objawem przełomu tarczycowego, nie jest:",
+    "options": [
+      "a) Hipotermia",
+      "b) Nadciśnienie",
+      "c) Tachykardia",
+      "d) Biegunka",
+      "e) Nadpobudliwość nerwowa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "46. W patogenezie choroby Plummera uczestniczy",
+    "options": [
+      "a) Obecność przeciwciał pobudzających",
+      "b) Uszkodzenie komórek pęcherzykowych tarczycy",
+      "c) Zakażenie wirusowe",
+      "d) Aktywacja limfocytów cytotoksycznych",
+      "e) Autonomiczne, nadmierne wydzielanie HT"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "49. W zespole MEN IIb nie występuje",
+    "options": [
+      "A) Guz chromochłonny",
+      "B) Bielactwo",
+      "C) Pierwotna Nadczynność przytarczyc 100% wykład profesor twierdzi że występuje choć rzadko, wg wykładu może być- w Zahorskiej str.282-JEST! w Szczekliku napisane, że nadczynność przytarczyc występuje w 16-35% MEN IIA",
+      "D) Rak rdzeniasty tarczycy",
+      "E) Nerwiakowlokianki"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "42. Przyczyną zespołu Larona jest",
+    "options": ["a) Mutacja receptora", "b) Obecność przeciwciał"],
+    "correctIndex": 0
+  },
+  {
+    "question": "41. U dzieci z niedoborem hormonu wzrostu nie występuje (odp. b albo d)",
+    "options": [
+      "a) Małe prącie",
+      "b) Prawidłowo wykształcona mózgoczaszka (WYST. DUŻA MÓZGOCZASZKA)",
+      "c) Wygląd lalki",
+      "d) Upośledzenie umysłowe",
+      "e) Małe dłonie i stopy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "50. W przebiegu zespołu Klinefeltera nie występuje",
+    "options": [
+      "a) Szkliwienie kanalików plemnikotwórczych",
+      "b) Niskorosłość",
+      "c) Hipogonadyzm hipogonadotropowy",
+      "d) Ginekomastia",
+      "e) Eunuchoidalna sylwetka"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "51. Proszę wskazać fałszywe stwierdzenie dotyczące nowotworów neuroendokrynnych",
+    "options": [
+      "a) Somatostatinoma występuje biegunka",
+      "b) Glucagonoma występuje biegunka",
+      "c) VIPoma może dochodzić do spadku ciśnienia tętniczego",
+      "d) Zespół rakowiaka obejmuje bóle brzucha i duszności",
+      "e) W przebiegu gastrinoma typowe są zaparcia"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "52. Charakterystycznymi objawami zespołu Cushinga są 1. sinoczerwone rozstępy 2. osłabienie siły mięśni obręczy biodrowej 3. wylewy podskórne 4. otyłość 5. nadciśnienie tętnicze",
+    "options": [
+      "a) 123 - możliwe, że to bo otyłość i nadciśnienie są w większości chorób a pytają o charakterystyczne, ew jakby była otyłość centralna to to na pewno byłoby charakterystyczne",
+      "b) 345",
+      "c) 1,4,5 – sinoczerwone rozstępy, otyłość, nadciśnienie tętnicze",
+      "d) 245",
+      "e) 124"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "55. Podwyższone stężenie we krwi 17-OH-progesteronu",
+    "options": ["a) Wrodzonego przerostu kory nadnerczy"],
+    "correctIndex": 0
+  },
+  {
+    "question": "93. Współwystępowanie hiperkalcemii i podwyższonego stężenia PTH jest charakterystyczne dla",
+    "options": [
+      "a) Pierwotna nadczynność przytarczyc",
+      "b) Wtórna nadczynność przytarczyc",
+      "c) Trzeciorzędowa nadczynność przytarczyc",
+      "d) Prawdziwe odpowiedzi to A i C pierwotna nadczynność i trzeciorzędowa",
+      "e) A, B i C prawdziwe ? po dłuższym czasie mogłaby się zrobić hiperkalcemia wg mnie też to"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "14. Do przyczyn hiperkalcemii nie należą: 1. nadczynność tarczycy 2. niedoczynnosc tarczycy 3. guz chromochłonny 4. niedoczynność kory nadnerczy 5. rzekomej niedoczynności przytarczyc",
+    "options": [
+      "a) 1,3- nie (nadczynność tarczycy zwiększa uwalnianie Ca2+ z kości więc daje hiperCa)",
+      "b) 2,4",
+      "c) 3,4",
+      "d) 2,5- na pewno 5 będzie bo dochodzi wtedy do hipokalcemii,a 2 to nw"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "37. Proszę wskazać fałszywe stwierdzenie dotyczące niedoczynności kory nadnerczy",
+    "options": [
+      "a) W ostrej niedoczynności występują bóle brzucha, nudności i wymioty",
+      "b) We wtórnej niedoczynności kory nie występują przebarwienia skóry",
+      "c) W pierwotnej rzadko występuje odwodnienie i hiperK (często występuje)",
+      "d) Nagłe odstawienie GKS powoduje objawy wtórnej niedoczynności kory",
+      "e) W diagnostyce najważniejsze jest oznaczenie stężenia kortyzolu i przeprowadzenie testu stymulacji z podaniem syntetycznej kortykotropiny"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "38. Wskazać fałszywe stwierdzenie dotyczące wrodzonego przerostu kory nadnerczy przebiegającego z niedoborem 21-hydroksylazy",
+    "options": [
+      "a) U noworodków męskich narządy płciowe przy urodzeniu są prawidłowo wykształcone - są Zahorska 279",
+      "b) U noworodków żeńskich narządy płciowe ulegają różnego stopnia wirylizacji - tak 279",
+      "c) W zespole utraty soli występuje hipoNa, kwasica i hiperK - tak 279 w sumie to nie ma nic o kwasicy, ale jak jest hiperkalemia to jest też kwasica bo potas wchodzi do kom. a H+ do krwi",
+      "d) W prostej wirylizacji występują nawracające epizody niedoboru kortyzolu wraz z przedwczesnym dojrzewaniem płciowym u chłopców- to też jest w Zahorskiej 279 może chodzić o słowo nawracające, dlatego może to jest fałsz, chociaż jest niedobór enzymu, więc coś by go zostało i się pojawiało i znikało",
+      "e) Wzrost ostateczny u obu płci jest niski <3 - jest niski 280"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "5. Proszę wskazać fałszywe stwierdzenie odnoszące się do pierwotnej przewlekłej niedoczynności kory nadnerczy:",
+    "options": [
+      "a. Występuje brązowe przebarwienie skóry i błon śluzowych",
+      "b. Dochodzi do obniżenia ciśnienia tętniczego",
+      "c. W wyniku procesu autoimmunologicznego dochodzi do zniszczenia komórek kory",
+      "d. nadnerczy",
+      "e. masa ciała ulega obniżeniu",
+      "f. często na początku choroby rozwija się hipernatremia"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "7. Proszę wskazać fałszywe stwierdzenie dotyczące guza wydzielającego katecholaminy:",
+    "options": [
+      "a. Objawy zależą od stosunku wydzielania noradrenaliny do adrenaliny",
+      "b. Do czynników wyzwalających wystąpienie objawów należy obfity posiłek",
+      "c. Guz może być zlokalizowany w rdzeniu nadnerczy i/lub zwojach nerwowych",
+      "d. Do objawów klinicznych należy duża zmienność wartości ciśnienia tętniczego",
+      "e. Guz chromochłonny może stanowić składową MEN1"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "15. W razie rozpoznania raka rdzeniastego tarczycy należy przeprowadzić diagnostykę w kierunku:",
+    "options": [
+      "a. Choroby Hashimoto",
+      "b. Pierwotnej nadczynności przytarczyc",
+      "c. Wtórnej nadczynności przytarczyc",
+      "d. Zespołu MEN 1",
+      "e. Prawidłowe odpowiedzi to C i D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "19. Przedwczesne dojrzewanie płciowe nie wystąpi w przebiegu:",
+    "options": [
+      "Biorę a. Torbieli jajników a. Przerostu komórek Leydiga (KTOŚ DZIWNIE PRZEPISAŁ TO)",
+      "b. Wrodzonego przerostu kory nadnerczy u chłopców",
+      "c. Gruczolaka przysadki wydzielającego prolaktynę",
+      "d. Zespołu McCurne’a – Albrichta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "21. Objawem charakterystycznym dla zespołu Conna nie jest:",
+    "options": [
+      "a. Nadciśnienie tętnicze z hipokaliemią",
+      "b. Zasadowica metaboliczna",
+      "c. Kwasica metaboliczna",
+      "d. Obniżona aktywność reninowa osocza",
+      "e. Retencja sodu i wody"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "38. W patogenezie choroby Hashimoto kluczowe znaczenie ma: Wybierz jedną odpowiedź:",
+    "options": [
+      "a. Zaburzenie funkcji limfocytów T supresorowych",
+      "b. Zaburzenie funkcji limfocytów T helper",
+      "c. Zaburzenie funkcji limfocytów T cytotoksycznych",
+      "d. Zaburzenie funkcji limfocytów B",
+      "e. Prawidłowe odpowiedzi to A i D"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "40. W przebiegu moczówki prostej centralnej nie dochodzi do:",
+    "options": [
+      "a. Upośledzenia zwrotnego wchłaniania wody",
+      "b. Zahamowania syntezy akwaporyn",
+      "c. Uszkodzenia kanałów akwaporynowych",
+      "d. Zaburzenia tworzenia kanałów akwaporynowych",
+      "e. Braku aktywacji receptorów V2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "50. Hiperandrogenizm u kobiet nie występuje w przebiegu:",
+    "options": [
+      "a. Zespołu Cushinga",
+      "b. Nieklasycznego wrodzonego przerostu kory nadnerczy",
+      "c. Otyłości",
+      "d. Jadłowstrętu psychicznego",
+      "e. Guza wirylizującego jajnika"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "56. Hiperkortyzolemia nie powoduje:",
+    "options": [
+      "a. Nasilenia glikogenogenezy",
+      "b. Nasilenia dokomórkowego transportu glukozy",
+      "c. Nasilenia lipolizy",
+      "d. Nasilenia glukoneogenezy",
+      "e. Nasilenia katabolizmu białkowego"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "57. Dla nadczynności tarczycy nie jest charakterystyczny:",
+    "options": [
+      "a. Podwyższenie skurczowego ciśnienia tętniczego związane ze wzrostem objętości krwi krążącej",
+      "b. Brak nocnego obniżenia ciśnienia tętniczego",
+      "c. Hiperglikemia spowodowana zwiększonym wchłanianiem glukozy z przewodu pokarmowego oraz nasileniem glikogenolizy",
+      "d. Rozwój zaburzenia funkcji nerek",
+      "e. Rozszerzenie łożyska naczyniowego w wyniku rozkurczu tętniczek oporowych"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "60. Dla pierwotnej nadczynności przytarczyc są charakterystyczne: 1. Hiperkalcemia; 2. Nasilona fosfaturia; 3. Podwyższone stężenie parathormonu; 4. Hipokaliemia;",
+    "options": [
+      "a. 1, 3",
+      "b. 1, 2, 3",
+      "c. 1, 2, 3 i 4",
+      "d. 1 i 2",
+      "e. 2, 3 i 4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "74. Do zmian hormonalnych uwzględnionych w kryteriach rotterdamskich diagnozowanie zespołu policystycznych jajników nie należy:",
+    "options": [
+      "a. Zwiększone stężenie testosteronu wolnego",
+      "b. Zwiększone stężenie androstendionu",
+      "c. Zwiększona wartość indeksu LH/FSH",
+      "d. Zwiększone stężenie testosteronu całkowitego",
+      "e. Zwiększone stężenie dehydroepiandrostendionu"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "76. Który z poniższych zespołów genetycznych nie charakteryzuje się upośledzeniem rozwoju umysłowego:",
+    "options": [
+      "a. Zespół Padera-Willego",
+      "b. Zespół Edwardsa",
+      "c. Zespół Downa",
+      "d. Zespół Algenmana",
+      "e. Zespół Klinefeltera"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "81. Do objawów klinicznych zespołu policystycznych jajników nie należy:",
+    "options": [
+      "a. Trądzik",
+      "b. Łysienie androgenne",
+      "c. Hirsutyzm",
+      "d. Wtórny brak miesiączki",
+      "e. Otyłość"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "88. Ostra niedoczynność kory nadnerczy może być spowodowana:",
+    "options": [
+      "a. Urazem",
+      "b. Posocznica meningokową",
+      "c. Zaburzeniami krzepnięcia",
+      "d. Stosowaniem leków przeciwzakrzepowych",
+      "e. Wszystkie odpowiedzi są prawidłowe"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "91. Hiperinsulinemia w zespole policystycznych jajników powoduje następujące zaburzenia hormonalne:",
+    "options": [
+      "a. Obniżenie syntezy białka wiążącego hormony płciowe",
+      "b. Zwiększenie pulsów uwalniania luteotropiny",
+      "c. Obniżenie syntezy białek wiążących insulinopodobne czynniki wzrostu",
+      "d. Wzrost syntezy androgenów jajnikowych",
+      "e. Wszystkie odpowiedzi są prawidłowe"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "100. W klasycznej postaci zespołu Kallmana nie występuje:",
+    "options": [
+      "a. Wysokie stężenie prolaktyny w krążeniu",
+      "b. Osłabienie węchu",
+      "c. Niskie stężenie gonadotropin w krążeniu",
+      "d. Zaburzenie proporcji ciała",
+      "e. Niskie stężenie hormonów płciowych w krążeniu"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "1. Który z niżej wymienionych objawów nie wystąpi u pacjenta z wolem toksycznym:",
+    "options": [
+      "a. Kołatanie serca",
+      "b. Zmniejszenie masy ciała",
+      "c. Wzmożona potliwość",
+      "d. Bladość skóry",
+      "e. Przyspieszenie perystaltyki jelit"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "2. Który z objawów klinicznych nie jest typowy dla zespołu Klinefeltera:",
+    "options": [
+      "a. Małe prącie",
+      "b. Niski wzrost",
+      "c. Większy rozstaw kończyn górnych niż wzrost",
+      "d. Predyspozycje do rozwoju cukrzycy",
+      "e. Wszystkie wymienione są charakterystyczne"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "3. Które z poniższych zaburzeń hormonalnych wystąpi u noworodka płci męskiej z zespołem utraty soli:",
+    "options": [
+      "a. Niskie stężenie aldosteronu",
+      "b. Wysokie stężenie kortyzolu",
+      "c. Niskie stężenie androgenów",
+      "d. A i B",
+      "e. A, B i C"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "17. 45-letni pacjent zgłasza się do lekarza z powodu narastających bólów głowy, stawów kończyn dolnych i osłabienia, zmęczenia, powiększenia rąk oraz obrzęków, w wywiadzie podaje, że od kilku lat leczy się z powodu nadciśnienia tetmicrego oraz cukrzycy, w badaniu fizykalnym lekarz stwierdził powiększenie żuchwy, obrzęki kończyn, które nie ulegały odkształceniu przy ucisku palcem, brak rozstępów i przebarwień. Jakie badanie laboratoryjne najlepiej potwierdzi diagnozę postawioną na podstawie wywiadu badania:",
+    "options": [
+      "a. Stężenie ACTH w godzinach porannych",
+      "b. Stężenie kortyzolu w dobowej zbiórce moczu",
+      "c. Stężenie insulinopodobnego czynnika wzrostu",
+      "d. Test obciążenia glukozą z pomiarem stężeń insuliny",
+      "e. Test hamowania z podaniem deksametazonem"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "18. Który z wymienionych objawów nie wystąpi u 34-letniego pacjenta po urazie głowy, który spowodował uszkodzenie przysadki:",
+    "options": [
+      "a. Obniżenie ciśnienia tętniczego",
+      "b. Zaburzenia erekcji",
+      "c. Osłabienie, uczucie zimna i przyrost masy ciała",
+      "d. Hiperlipidemia i zaburzenia metabolizmu glukozy",
+      "e. Rozstępy i ciemne zabarwienie skóry"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "19. 28-letnia pacjentka w czasie porodu straciła około 3 litry krwi, wkrótce po urodzeniu dziecka zgłaszała bóle głowy, nudności, wymioty i osłabienie wzroku szczególnie w prawym oku. Która ze zmian hormonalnych nie wystąpi u pacjentki:",
+    "options": [
+      "a. Obniżenie stężenia kortyzolu",
+      "b. Obniżenie stężenia tyreotropiny",
+      "c. Podwyższenie stężenia prolaktyny",
+      "d. Obniżenie stężenia hormonu wzrostu",
+      "e. Wszystkie powyższe zmiany hormonalne są typowe dla prezentowanej sytuacji klinicznej"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "20. 20-letnia pacjentka zgłosiła się do lekarza rodzinnego z powodu występującego od kilku miesięcy postępującego zmęczenie, osłabienia, wypadania włosów i suchości skóry, obrzęków szczególnie na kończynach dolnych, przyrostu masy ciala o 3 kg w czasie ostatnich kilku miesięcy, podaje również stałe uczucie zimna, nawet pomieszczeniach, w którym innym jest ciepło. Ostatnia miesiączka wystąpiła przed czterema miesiącami, ale już od roku miesiączki były nieregularne. W badaniu fizykalnym lekarz stwierdził otyłość brzuszną i dyskretne obrzęki na podudziach oraz brak rozstępów. Które z wymienionych procesów patologicznych z największym prawdopodobieństwem wyjaśnia patogenezę objawów występujących u pacjentki:",
+    "options": [
+      "a. Nadmierna produkcja hormonów przez komórki warstwy pasmowatej nadnerczy",
+      "b. Pobudzenie receptorów błonowych tarczycy przez przeciwciała",
+      "c. Proces apoptozy komórek pęcherzykowych tarczycy (raczej to bo głównie uczestniczą limfocyty co wpływa na apoptoze) (wg klucza)",
+      "d. Zwiększenie przepuszczalności naczyń",
+      "e. Uszkodzenie komórek pęcherzykowych tarczycy przez przeciwciała mikrosomalne"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "23. W których z poniższych zaburzeń hormonalnych może dojść do rozwoju cukrzycy:",
+    "options": [
+      "a. Akromegalia",
+      "b. Zespół Cushinga",
+      "c. Niedoczynność tarczycy",
+      "d. Prawidłowe odpowiedzi A, B i C",
+      "e. Prawidłowe odpowiedzi to A i B (wg klucza)"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "29. Proszę wskazać zdanie fałszywe:",
+    "options": [
+      "a. Wśród rzadkich przyczyn osteomalacji można wyróżnić: niedobór fosforanów nieorganicznych w płynach pozakomórkowych oraz wrodzony niedobór fosfatazy alkalicznej",
+      "b. Odpowiednikiem osteomalacji u dzieci jest krzywica, która charakteryzuje się także defektem mineralizacji chrząstki wzrostowej",
+      "c. W przebiegu osteomalacji hipokalcemia powoduje kompensacyjne zwiększenie syntezy i wydzielania PTH",
+      "d. W przebiegu niewydolności nerek obserwujemy zwiększenie stężenia PTH jako mechanizm kompensacyjny",
+      "e. Wzrost PTH zmniejsza wydalanie fosforanów i powoduje hiperfosfatemię"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "30. W przebiegu której jednostki chorobowej nie dojdzie do wtórnej osteoporozy:",
+    "options": [
+      "a. Zespołu Cushinga",
+      "b. Hipogonadyzmu",
+      "c. Nadczynności tarczycy",
+      "d. Zespołu Conna",
+      "e. Przewlekłej choroby nerek"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "51. Proces autoimmunologiczny nie uczestniczy w patogenezie:",
+    "options": [
+      "a. Choroby Hashimoto",
+      "b. Choroby Addisona",
+      "c. Choroby Gravesa-Basedowa",
+      "d. Choroby Conna",
+      "e. Cukrzycy typu 1"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "52. W diagnostyce wrodzonego przerostu nadnerczy kluczowe znaczenie ma oznaczenie stężenia:",
+    "options": [
+      "a. Kortyzolu",
+      "b. Androstendionu",
+      "c. 17-OH-progesteronu",
+      "d. ACTH",
+      "e. Progesteronu"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "53. Do lekarza zgłosił się 29-letni pacjent, który zgłasza zaburzenia erekcji i powiększenie gruczołów piersiowych, jakie zaburzenie hormonalne jest przyczyną objawów występujących u pacjenta:",
+    "options": [
+      "a. Gruczolak przysadki wydzielający ACTH",
+      "b. Gruczolak przysadki wydzielający prolaktynę",
+      "c. Guz okolicy podwzgórzowej",
+      "d. Gruczolak przysadki wydzielający hormon wzrostu",
+      "e. Gruczolak nadnercza"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "54. 37-letnia pacjentka zgłosiłą się do lekarza z powodu braku miesiączki od 6 miesięcy, uderzeń gorąca z towarzyszącą tachykardią oraz obniżeniem nastroju. Najbardziej prawdopodobną przyczyną występujących zaburzeń jest:",
+    "options": [
+      "a. Zespół Addisona",
+      "b. Zespół Cushinga",
+      "c. Przedwczesne wygasanie czynności jajników",
+      "d. Guz chromochłonny rdzenia nadnerczy",
+      "e. Zespół policystycznych jajników"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "56. Izolowane skurczowe nadciśnienie tętnicze jest charakterystyczne dla pacjentów z rozpoznaniem:",
+    "options": [
+      "a. Przewlekłej niewydolności nerek",
+      "b. Nadczynności tarczycy",
+      "c. Bezdechu w czasie snu",
+      "d. Guza chromochłonnego nadnercza",
+      "e. Pierwotnego hiperaldosteronizmu"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "58. W patogenezie rozwoju nadciśnienia tętniczego u chorego z zespołem Cushinga bierze udział:",
+    "options": [
+      "a. Zwiększenie wrażliwości naczyń na działanie angiotensyny II",
+      "b. Zwiększenie liczby receptorów B w sercu (w zahorskiej jest napisasne tylko że zwiększa się ilość katecholamin ze względu na zmniejszoną ich degradacje)",
+      "c. Zwiększona retencja sodu",
+      "d. A i C (wg klucza)",
+      "e. Wszystkie"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "61. U 40-letniej pacjentki z rozpoznaniem zespołu Cushinga zaburzenia gospodarki węglowodanowej są spowodowane insulinoopornością o charakterze:",
+    "options": [
+      "a. przedreceptorowym (wg klucza)",
+      "b. receptorowym",
+      "c. postreceptorowym (podkreślone na wykładzie)",
+      "d. przed- i postreceptorowym",
+      "e. receptorowym i postreceptorowym1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "63. Dysregulacje hormonalne w przebiegu zespołu policystycznych jajników nie występują w:",
+    "options": [
+      "a. wątrobie",
+      "b. tarczycy (wykład)",
+      "c. tkance tłuszczowej",
+      "d. trzustce",
+      "e. podwzgórzu"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "64. Do objawów klinicznych zespołu policystycznych jajników nie należy:",
+    "options": [
+      "a. wtórny brak miesiączki",
+      "b. otyłość (wykład)",
+      "c. hirsutyzm",
+      "d. trądzik",
+      "e. zaburzenie płodności"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "68. Proszę wskazać zdanie fałszywe dotyczące zespołu niskiej trójjodotyroniny:",
+    "options": [
+      "a. jest to mechanizm kompensacyjny w przebiegu niedożywienia,",
+      "b. zaburzenie to jest odwracalne,",
+      "c. leczenie jest takie samo jak w niedoczynności tarczycy,",
+      "d. dochodzi w nim do zahamowania obwodowej konwersji tyroksyny do trójjodotyroniny,",
+      "e. w jego przebiegu dochodzi do obniżenia tempa termogenezy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "69. U chorego na otyłość wtórnym zaburzeniem hormonalnym jest:",
+    "options": [
+      "a. podwyższone stężenie TSH i prawidłowe stężenia wolnych frakcji T4 i T3 (wg klucza)",
+      "b. podwyższone stężenie TSH i prawidłowe stężenie wolnej frakcji T4 oraz obniżone T3",
+      "c. podwyższone stężenie TSH i podwyższone stężenia wolnych frakcji T4 i T3 (coś gdzieś było, że taki mechanizm, żeby więcej nie tyć) wg nas",
+      "d. podwyższone stężenie TSH i obniżenia wolnych frakcji T4 i T3",
+      "e. obniżone stężenie TSH i obniżone stężenia wolnych frakcji T4 i T3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "70. Do oddziału ratunkowego został przyjęty pacjent, który uległ wypadkowi samochodowemu, w czasie wstępnej diagnostyki stwierdzono złamanie prawego podudzia oraz 3 dolnych żeber po stronie lewej. Po 2 godzinach pobytu pacjenta w oddziale wystąpił ból brzucha oraz obfite wymioty. Jakie zaburzenie może być przyczyną tych objawów",
+    "options": [
+      "a. przełom nadnerczowy",
+      "b. ostra niewydolność kory nadnerczy (wg katedry)",
+      "c. wstrząs mózgu",
+      "d. krwotok w obrębie jamy brzusznej",
+      "e. ostry wrzód żołądka"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "91. Proszę wskazać zdanie fałszywe dotyczące zaburzeń wydzielania i działania hormonów tylnego płata przysadki:",
+    "options": [
+      "a. uszkodzenie tylnego płata przysadki powoduje zwiększoną diurezę i odwodnienie",
+      "b. zniszczenie komórek tylnego płata przysadki najczęściej przebiega z hiponatremią (wg klucza)",
+      "c. w przebiegu hipokalcemii obserwujemy podobne objawy jak w niedoborze wazopresyny (jedyna poprawna odpowiedź wg profesora, ale odwołania nie uznano… #śum)",
+      "d. wszystkie odpowiedzi są prawidłowe",
+      "e. nadmiar wazopresyny powoduje hiponatremnię z rozcieńczeniem"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "97. W którym z poniższych zespołów nie występuje niedorozwój umysłowy: (BAZA)",
+    "options": [
+      "a. zespole Klinefeltera",
+      "b. zespole Downa",
+      "c. zespole Pradera - Willego",
+      "d. zespole Edwardsa",
+      "e. zespole Angelmana"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "16. Facet wszyskie objawy zespołu cushinga, wysoki kortyzol, niskie acth 1. Acth-niezależny Cushing 2. Acth zależny cushing 3. podwzgórzyca 4. Addison 5. chuj wie co",
+    "options": [
+      "a. Acth-niezależny Cushing",
+      "b. Acth zależny cushing",
+      "c. podwzgórzyca",
+      "d. Addison",
+      "e. chuj wie co"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "23. Kolejność zmian hormonalnych w procesie starzenia:",
+    "options": [
+      "a. somatopauza, andrenopauza, menopauza lub andropauza",
+      "b. adrenopauza(po 30 rż), somatopauza (po 40 rż), menopauza lub andropauza",
+      "c. menopauza lub adrenopauza, adrenepauza, somatopauza",
+      "d. menopauza lub adrenopauza, somatopauza, adrenepauza",
+      "e. brak prawidłowej"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "25. Kobieta z wytrzeszczem, nadmierną potliwością…(ewidentny opis gravesa-basedowa) Czego nie będzie w badaniu:",
+    "options": [
+      "a. wzrostu TSH - moze byc przeciez wzrost TSH w nadczynnosci tarczycy, jelsi jest to wtorna nadczynnosc - nie, wg MP jest obniżone w GB, ogolnie wzrost TSH do wtórnej okej ale jest wytrzeszcz to Graves-Basedow czyli pierwotna nadczynnosc wiec TSH niskie.",
+      "b. wzrostu fT4",
+      "c. wzrostu jodochwytności",
+      "d. coś z żywicą?"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "27. Co może być jedynym- to też jest mylące? objawem choroby Plummera:",
+    "options": [
+      "a. Nadciśnienie tętnicze",
+      "b. Zaburzenia rytmu",
+      "c. Niewydolność krążenia",
+      "d. A i B",
+      "e. B i C zahorska 269"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "29. W jakiej chorobie nie ma niedoboru wzrostu:",
+    "options": ["a. zespół Marfana", "b. zespół Pradera-Williego"],
+    "correctIndex": 0
+  },
+  {
+    "question": "51. W zespole policystycznych jajników nie dochodzi do:",
+    "options": [
+      "a. wzrostu LH",
+      "b. wzrostu FSH",
+      "c. spadku SHBG",
+      "d. wrostu testosteronu?",
+      "e. wzrost estrogenow"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "52. Co oznaczamy by oznaczyć wskaźnik wolnego testosteronu 1) shbg 2) wolny testosteron 3) całkowity testosteron",
+    "options": ["a. 1,3"],
+    "correctIndex": 0
+  },
+  {
+    "question": "54. W typowym obrazie policystycznych jajników:",
+    "options": [
+      "a. zmiany w usg, hiperandrogenizm, zaburzenia miesiączkowania"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "55. Młody pacjent z cukrzycą skarży się na ból stopy w nocy",
+    "options": [
+      "a. neuropatia ruchowa",
+      "b. neuropatia wegetatywna",
+      "c. amiotrofia",
+      "d. ostre zapalenie nerwów obwodowych",
+      "e. miażdżyca"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "61. Niedorozwinięte narządy płciowe zewnętrzne, rozwój najądrzy i pęcherzyków",
+    "options": [
+      "a. brak aktywności aromatazy",
+      "b. upośledzenie aktywności 5alfa-reduktazy i brak DHT czyli źle rozwinięte zwnętrze płciowe?",
+      "c. niedobór 21-hydroksylazy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "65. Kobieta ze zmianą 8mm w okolicy przysadki + objawy",
+    "options": [
+      "a. spadek ACTH i wzrost tyroksyny",
+      "b. wzrost ACTH i wzrost kortyzolu",
+      "c. spadek TSH i tyroksyny"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "67. Czego nie powoduje wrodzony niedobór wzrostu?",
+    "options": [
+      "a. może się pojawić niedorozwój prącia",
+      "b. objawia się głównie po pierwszym roku",
+      "c. prawidłowa masa i wzrost przy urodzeniu",
+      "d. napady hiperglikemii",
+      "e. było jeszcze z rozwinięciem się podskórnej tkanki tłuszczowej"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "75. Który stan jest przyczyną pierwotnego braku miesiączki?",
+    "options": [
+      "a. hiperprolaktynemia",
+      "b. zespół Rokitansky’ego",
+      "c. pcos",
+      "d. zaburzenia tarczycy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "82. Efekty hiperinsulinemii w PCOS:",
+    "options": [
+      "a. spadek shbg",
+      "b. bezpośrednie pobudzenie syntezy androgenów w jajniku",
+      "c. wzrost syntezy ACTH",
+      "d. wszystkie? śi",
+      "e. a i b"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "88. 26-letni mężczyzna z urazem czaszkowo-mózgowym został przywieziony na SOR, zoperowany, po zabiegu poprawił się stan, ale zaczął wydalać dużo rozcieńczonego moczu. Czym jest to spowodowane?",
+    "options": [
+      "a. przerwanie szypuły przysadki",
+      "b. operacyjnym otwarciem czaszki",
+      "c. pourazowym niedokrwieniem nerek w przebiegu wstrząsu hipowolemicznego"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "2. Niedoczynność przedniego płata przysadki u dorosłych mężczyzn nie może powodować:",
+    "options": [
+      "a) niepłodności",
+      "b) istotnego zmniejszenia wydzielania aldosteronu",
+      "c) zmniejszenie TSH",
+      "d) niedoczynność tarczycy",
+      "e) zmniejszenie stężenia kortyzolu"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "3. Do charakterystycznych objawów niedoczynności tarczycy NIE należy:",
+    "options": [
+      "a) stałe uczucie zimna",
+      "b) przyrost masy ciała",
+      "c) pogorszenie pamięci u osób starszych",
+      "d) bezsenność",
+      "e) uporczywe zaparcia"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "4. Rak tarczycy niegromadzący jodu, a wytwarzający kalcytonine:",
+    "options": [
+      "a) anaplastyczny",
+      "b) brodawkowaty",
+      "c) pęcherzykowaty",
+      "d) rdzeniasty",
+      "e) żodyn"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "5. Który z niżej wymienionych zestawów jest typowy dla niedoczynności kory nadnerczy?",
+    "options": [
+      "a) hipoglikemia, hiponatremia, hipokalemia, hiperchloremia, alkaloza metaboliczna",
+      "b) hipoglikemia, hiponatremia, hiperkaliemia,hipochloremia, kwasica metaboliczna",
+      "c) hiperglikemia, hiponatremia, hiperkaliemia, hiperchloremia, kwasica metaboliczna",
+      "d) hipoglikemia, hipernatremia, hipokalemia, hiperchloremia, alkaloza metaboliczna",
+      "e) hiperglikemia, hiponatremia, hipokaliemia, hiperchloremia, alkaloza oddechowa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "6. Który z poniższych objawów nie jest typowym dla nadczynności tarczycy?",
+    "options": [
+      "a) wzmonożona potliwość",
+      "b) zaparcia",
+      "c) utrata masy ciała",
+      "d) bezsenność",
+      "e) tachykardia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "7. Zaznacz prawidlową odpowiedź odnosnie guzków tarczycy",
+    "options": [
+      "a) występują częściej u mężczyzn",
+      "b) występują rzadziej na terenach ubogich w jod",
+      "c) zwykle stwierdza się u pacjentów w stanach eutyrozy",
+      "d) u pacjentów z nadczynnnością tarczycy są zawsze zmianami łagodnymi",
+      "e) ryzyko rozwoju nowotworu w stwierdzonym guzku nie zależy od wieku pacjenta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "9. Nieprawda że w PCOS obserwuje się",
+    "options": [
+      "a) podwyższenie stężenia testosteronu całkowitego",
+      "b) hipoestrogenizm",
+      "c) podwyższenie stężenia prolaktyny",
+      "d) podwyższenie stężenia frakcji testosteronu wolnego",
+      "e) podwyższenie androstendionu"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "11. Objawy wirylizacji to wszystkie oprócz:",
+    "options": [
+      "a) trądziku",
+      "b) łysienia",
+      "c) zmniejszonego owłosienia skóry",
+      "d) powiększenia łechtaczki",
+      "e) obniżenie barwy głosu"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "12. Wrodzony przerost nadnerczy z niedoborem 21-hydroksylazy charakteryzuje się wszystkimi, oprócz:",
+    "options": [
+      "a) zmaskulinizowanym genetycznie żeńskim płodem",
+      "b) wysokim stężeniem ACTH",
+      "c) niskim stężeniem kortyzolu",
+      "d) zmniejszonym stężeniem 17-kortykosteroidów w moczu",
+      "e) sfeminizowanym, genetycznie męskim płodem"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "13. Przyczyną wrodzonego przerostu kory nadnerczy jest/są",
+    "options": [
+      "a) niedobór ACTH",
+      "b) nadmiar GKS nadnerczowych",
+      "c) defekt enzymatycznego szlaku syntezy GKS",
+      "d) nadmiar estrogenów nadnerczowych",
+      "e) nadmiar mineralokortykosteroidów"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "14. Do najbardziej charakterystycznych objawów akromegalii należy:",
+    "options": [
+      "a) powiększenie wątroby",
+      "b) zespół uciskowy rdzenia kręgowego",
+      "c) powiększenie stóp",
+      "d) nadczynność tarczycy",
+      "e) hiperkalcemia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "78. Pierwotnanadczynność przytarczyc charakteryzuje się:",
+    "options": [
+      "a) niskie stężenie wapnia, wysokie stężenie fosforu i podwyższone stężenie PTH",
+      "b) niskie stężenie wapnia, niskie stężenie fosforu i podwyższone stężenie PTH",
+      "c) wysokie stężenie wapnia, wysokie stężenie fosforu, prawidłowe PTH",
+      "d) wysokie stężenie wapnia, niskie lub prawidłowe stężenie fosforu, podwyższone PTH",
+      "e) niskim lub prawidłowym stężeniem wapnia, wysokim stężeniem fosforu, podwyższone stężenie PTH"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "79. Objawami pierwotnej nadczynności przytarczyc są: 1. Kamica nerkowa 2. Wapnica nerkowa 3. Zwyrodnienie włóknisto-torbielowate 4. Osteoporoza 5. Zwapnienia pozaszkieletowe 6. Miażdżyca 7. Zwapnienia jąder podkorowych 8. Zaćma",
+    "options": ["a) 1+2+4", "b) 1+3+5", "c) 2+4+6", "d) 2+5+7", "e) 5+7+8"],
+    "correctIndex": 0
+  },
+  {
+    "question": "7. Najczęstszą postacią izolowanego niedoboru GnRH, którego skutkiem jest hipogonadyzm hipogonadotropowy i któremu towarzyszy brak węchu wskutek zaburzeń rozwoju węchomózgowia jest:",
+    "options": [
+      "a) zespół von Hippel-Lindau",
+      "b) zespół Vernera-Morrisona",
+      "c) SIADH",
+      "d) zespół Kallmana",
+      "e) choroba von Recklinghausena"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "8. Najczęstszą przyczyną obojnactwa rzekomego żeńskiego jest:",
+    "options": [
+      "a) zespół Turnera",
+      "b) zespół policystycznych jajników",
+      "c) wrodzony przerost nadnerczy",
+      "d) zespół Conna",
+      "e) zespół feminizujących jąder"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "13. Najbardziej typowym zaburzeniem w przebiegu makrogruczolaka przysadki jest:",
+    "options": [
+      "a) zaburzenia smaku",
+      "b) niedowidzenie kwadrantowe [Sz. str 1173 obraz kliniczny ,,makrogruczolaki wykazujące ekspansję ponadsiodłową mogą uciskać skrzyżowanie nerwów wzrokowych i powodować ubytki w polu widzenia (...)”]",
+      "c) zez",
+      "d) niedosłuch odbiorczy",
+      "e) upośledzenie węchu"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "17. Pierwotna nadczynność przytarczyc charakteryzuje się:",
+    "options": [
+      "a) wysokim stęż wapnia, niskim lub prawidłowym stęż fosforu i podwyższonym PTH [Szczeklik'13, str 1241: wyniki lab - często: hiperkalcemia, zwiększone PTH w surowicy, zwiększona akt. izoenzymu kostnego fosfatazy zasadowej w surowicy; rzadziej: hipofosfatemia, zwiększone wydalanie fosforanów, wapnia z moczem, upośledzenie zagęszczania/rozcieńczania moczu, zmiany wartości wskaźników osteogenezy/osteolizy]",
+      "b) niskim lub prawidłowym stęż wapnia, wysokim stęż fosforu i podwyższonym PTH",
+      "c) niskim stęż wapnia, wysokim stęż fosforu i podwyższonym PTH",
+      "d) niskim stęż wapnia, niskim stęż fosforu i podwyższonym PTH",
+      "e) wysokim stęż wapnia, wysokim stęż fosforu i prawidłowym PTH"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "19. Do bodźców stymulujących uwalniania wazopresyny nie należy:",
+    "options": [
+      "a) nadciśnienie e [szczeklik'13, str 1148: wydzielania jest powbudzane przez: wzrost osmolarności osocza(natremii), zmniejszenie objętośći krwi krązącej, hipotensjam angiotensyna II, adrenalina, kortyzol, steroidy płciowe.]",
+      "b) uraz",
+      "c) hipotensja",
+      "d) stres",
+      "e) odwodnienie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "22. Fenotyp A zespołu policystycznych jajników to:",
+    "options": [
+      "a) obraz policystycznych jajników w badaniu USG",
+      "b) hiperandrogenizm + zaburzenia owulacji",
+      "c) hiperandrogenizm + obraz policystycznych jajników w badaniu USG",
+      "d) hiperandrogenizm + zaburzenia owulacji + obraz policystycznych jajników w USG [Typ A - hiperandrogenizm + zaburzenia owulacji+ obraz policystycznych jajników w USG Typ B - hiperandrogenizm + zaburzenia owulacji; Typ C - hiperandrogenizm + obraz policystycznych jajników w badaniu USG; Typ D - zaburzenia owulacji + obraz policystycznych jajników w USG] e) zaburzenia owulacji + obraz policystycznych jajników w USG",
+      "e) zaburzenia owulacji + obraz policystycznych jajników w USG"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "23. Wrodzoną postacią pierwotnej niedoczynności przytarczyc jest:",
+    "options": [
+      "a) chondrodysplazja Jansena",
+      "b) Zespół di George’a [Szczeklik w epidemiologii podaje 'brak przytarczyc w następstwie wad wrodzonych – zespół DiGeorge’a'",
+      "c) idiopatyczna niedoczynność przytarczyc",
+      "d) niedoczynność po całkowitej tyreoidektomii",
+      "e) wtórna nadczynność przytarczyc w obustronnej hipoplazji nerek"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "24. W której sytuacji klinicznej występuje zmniejszenie syntezy kortyzolu w nadnerczach?",
+    "options": [
+      "a) W przebiegu guzkowego rozrostu nadnerczy",
+      "b) W przebiegu ekotopowego wydzielania CRH",
+      "c) W przypadku ekotopowego wydzielania ACTH przez raka drobnokomórkowego płuca",
+      "d) W przebiegu gruczolaka przysadki wydzielającego ACTH",
+      "e) W przypadku doustnego podawania glukokortykosteroidów [Zahorska 368]"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "34. W przebiegu gigantyzmu obserwujemy wysoki wzrost, który jest wynikiem działania:",
+    "options": [
+      "a) Glukozy",
+      "b) Hormonu wzrostu",
+      "c) Insuliny",
+      "d) Insulinopodobnego czynnika wzrostu 1",
+      "e) Hormonu wzrostu i insulinopodobnego czynnika wzrostu 1"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "6) Do przyczyn SIADH należy:",
+    "options": [
+      "a) gruczolak przysadki",
+      "b) niewydolnosc serca",
+      "c) niewydolnosc watroby",
+      "d) niewydolnosc kory nadnerczy",
+      "e) przewlekla hiponatremia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "7) 42-letnia pacjentka, zaburzenia miesiączkowania, nieregularne, cykl się wydłużył, skąpe braki przez ostatnie 3 miesiące. W wywiadzie: nadciśnienie, cukrzyca, zawał, bardzo się poci, nosi coraz większe obuwie, fizykalnie sucha, stawy zniekształcone:",
+    "options": [
+      "- gruczolak/rak kory nadnercza",
+      "- żadna z wymienionych",
+      "- rak drobnokomórkowy płuca",
+      "- niedobór prolaktyny",
+      "- guz przysadki produkujący somatotropinę i prolaktynę"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "14) Hiperandrogenizm w PCOS nie powoduje:",
+    "options": ["a) wirylizacji ??????"],
+    "correctIndex": 0
+  },
+  {
+    "question": "35) do kryteriów SIADH nie należy",
+    "options": ["ciężar właściwy moczu <1.005"],
+    "correctIndex": 0
+  }
+]
